@@ -1,0 +1,83 @@
+[0.054938956714761365, 0.054938956714761365, 0.054938956714761365, 0.054938956714761365, 0.054384017758046604, 0.053829078801331844, 0.053829078801331844, 0.05327413984461708, 0.052164261931187554, 0.05105438401775804, 0.05049944506104328, 0.04938956714761376, 0.048834628190898996, 0.04827968923418423, 0.047169811320754707, 0.047169811320754707, 0.04550499445061043, 0.03940066592674805, 0.03662597114317424, 0.019977802441731404, 0.014428412874583794, 0.014428412874583794]
+22
+[0.05401911134193291, 0.05401911134193291, 0.05401911134193291, 0.05401911134193291, 0.053487459609846716, 0.052955807877760525, 0.052955807877760525, 0.052622097555017164, 0.051558794090844774, 0.050693432036015236, 0.050161780303929045, 0.04929641824909949, 0.0487647665170133, 0.0482331147849271, 0.04716981132075471, 0.04716981132075471, 0.045574856124496146, 0.03992462848089085, 0.037662252639145556, 0.02210858349524545, 0.016792066174383526, 0.016792066174383526]
+Client 0 got reply within 0.301062 seconds. The network exchanged 719 messages
+Network validated 5 requests within 0.044009 seconds
+Network validated 10 requests within 0.077017 seconds
+Network validated 15 requests within 0.103022 seconds
+
+
+[0.054938956714761365, 0.054938956714761365, 0.054938956714761365, 0.054938956714761365, 0.054384017758046604, 0.053829078801331844, 0.053829078801331844, 0.05327413984461708, 0.052164261931187554, 0.05105438401775804, 0.05049944506104328, 0.04938956714761376, 0.048834628190898996, 0.04827968923418423, 0.047169811320754707, 0.047169811320754707, 0.04550499445061043, 0.03940066592674805, 0.03662597114317424, 0.019977802441731404, 0.014428412874583794, 0.014428412874583794]
+22
+[0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456]
+Client 0 got reply within 0.303630 seconds. The network exchanged 727 messages
+Network validated 5 requests within 0.040009 seconds
+Network validated 10 requests within 0.076017 seconds
+Network validated 15 requests within 0.096022 seconds
+
+
+[0.054938956714761365, 0.054938956714761365, 0.054938956714761365, 0.054938956714761365, 0.054384017758046604, 0.053829078801331844, 0.053829078801331844, 0.05327413984461708, 0.052164261931187554, 0.05105438401775804, 0.05049944506104328, 0.04938956714761376, 0.048834628190898996, 0.04827968923418423, 0.047169811320754707, 0.047169811320754707, 0.04550499445061043, 0.03940066592674805, 0.03662597114317424, 0.019977802441731404, 0.014428412874583794, 0.014428412874583794]
+22
+[0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456, 0.045454545454545456]
+Client 0 got reply within 0.309952 seconds. The network exchanged 732 messages
+Network validated 5 requests within 0.043011 seconds
+Network validated 10 requests within 0.077017 seconds
+Network validated 15 requests within 0.098023 seconds
+
+
+Client 0 got reply within 0.311063 seconds. The network exchanged 742 messages
+Network validated 5 requests within 0.043435 seconds
+Network validated 10 requests within 0.073443 seconds
+Network validated 15 requests within 0.093446 seconds
+
+
+[{'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 1}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 2}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 3}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 4}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 5}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 0}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 6}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 7}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 8}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 9}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 10}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 11}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 12}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 13}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 1}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 14}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 15}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 16}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 17}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 18}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 19}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 20}, {'message_type': 'VIEW-CHANGE', 'new_view': 1, 'last_sequence_number': 0, 'C': [], 'P': [], 'node_id': 21}, b'\x1dD\xae\x82\xbf!J\xfd\t\xf7\xba\xdcv\xea\x8dw\x9d\x1f\xc4\xc8\x0c\xc6\xa8\xc3\xeb\xf1(\x9a\xe7\xd4+KE\xdaX P\x81\xee\x98\xf7E\x83\xcb\xdb\xfaF\xb6;@\xd9!\x8b\x85O\xa2\xc5\xd8\x8f\xee\xf9\xdcA\x0e{\'message_type\': \'VIEW-CHANGE\', \'new_view\': 1, \'last_sequence_number\': 0, \'C\': [], \'P\': [], \'node_id\': 1}split\x93\x08\xfb+8&\xd9\xbd\xac\xb0\n"\xca\x9dV2\xc2\x8a\xfc\xc4\x13\xfe\xb4e\xac\xec\x03\xa4]\xef\xec\xc1']
+
+
+
+0.17951423371265518
+need to change view
+need to change view
+need to change view
+need to change view
+0.72309470348959
+0.9854702381203239
+0.7544918965185197
+0.8310108431449118
+Client 1 got reply within 2.055442 seconds. The network exchanged 55 messages
+Network validated 5 requests within 5.043271 seconds
+0.8562272552476169
+Client 2 got reply within 0.019997 seconds. The network exchanged 33 messages
+0.45432402329675214
+Network validated 10 requests within 9.029245 seconds
+Client 3 got reply within 0.020004 seconds. The network exchanged 36 messages
+0.2013286031532232
+Client 4 got reply within 0.018999 seconds. The network exchanged 34 messages
+Network validated 15 requests within 12.036968 seconds
+0.16702512377489576
+Client 5 got reply within 0.019511 seconds. The network exchanged 33 messages
+0.3884728028599138
+Client 6 got reply within 0.020006 seconds. The network exchanged 33 messages
+Network validated 20 requests within 18.061933 seconds
+0.9346567073226894
+Client 7 got reply within 0.018998 seconds. The network exchanged 34 messages
+0.7766958491933242
+Network validated 25 requests within 24.084641 seconds
+Client 8 got reply within 0.019992 seconds. The network exchanged 36 messages
+0.6987642548695862
+Client 9 got reply within 0.020985 seconds. The network exchanged 34 messages
+Network validated 30 requests within 27.101314 seconds
+
+
+all time is 1.1323602199554443
+Client 5 got reply within 0.252064 seconds. The network exchanged 542 messages
+all count time is 1.9787917137145996
+
+relied number is 8 and 7
+
+all time is 1.2843801975250244
+Client 7 got reply within 0.267715 seconds. The network exchanged 549 messages
+all count time is 2.2202675342559814
+
+relied number is 9 and 8
+all time is 1.4197096824645996
