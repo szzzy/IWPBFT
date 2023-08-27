@@ -1,3 +1,1 @@
-python模拟IWPBFT
-
-与WPBFT和PBFT进行对比
+### python模拟IWPBFT，与WPBFT和PBFT进行对比

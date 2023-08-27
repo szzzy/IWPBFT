@@ -1,0 +1,75 @@
+IWPBFT
+all count time is 5.713704586029053
+relied number is 20 and 18
+all count time is 6.101784944534302
+relied number is 20 and 19
+all count time is 5.478347539901733
+relied number is 19 and 17
+all count time is 4.982523679733276
+relied number is 17 and 17
+all count time is 5.286496877670288
+relied number is 19 and 18
+all count time is 6.328232288360596
+relied number is 19 and 18
+all count time is 7.095644950866699
+relied number is 20 and 20
+all count time is 7.967482566833496
+relied number is 20 and 20
+all count time is 6.676167249679565
+relied number is 20 and 19
+all count time is 8.010363340377808
+relied number is 19 and 19
+all count time is 5.218804836273193
+relied number is 17 and 16
+all count time is 5.623050689697266
+relied number is 19 and 18
+
+WPBFT
+all count time is 6.231089353561401
+relied number is 16 and 16
+all count time is 8.541292905807495
+relied number is 20 and 19
+all count time is 5.012996673583984
+relied number is 15 and 15
+all count time is 8.282644510269165
+relied number is 20 and 19
+all count time is 5.0780189037323
+relied number is 15 and 15
+all count time is 9.312956094741821
+relied number is 20 and 20
+all count time is 8.689485311508179
+relied number is 20 and 20
+all count time is 8.405736446380615
+relied number is 20 and 19
+all count time is 8.375802040100098
+relied number is 20 and 19
+all count time is 8.666745662689209
+relied number is 20 and 20
+
+PBFT
+all count time is 14.152819633483887
+relied number is 19 and 19
+all count time is 31.492948293685913
+relied number is 20 and 20
+all count time is 17.01359748840332
+relied number is 20 and 20
+all count time is 11.890443563461304
+relied number is 19 and 19
+all count time is 15.63370966911316
+relied number is 20 and 20
+all count time is 12.704644441604614
+relied number is 18 and 18
+all count time is 11.50334119796753
+relied number is 19 and 19
+all count time is 12.116600275039673
+relied number is 20 and 20
+all count time is 23.908738374710083
+relied number is 20 and 19
+all count time is 9.822187423706055
+relied number is 20 and 18
+
+
+
+0.324390918435327
+0.4164346067894969
+0.8298825170213018

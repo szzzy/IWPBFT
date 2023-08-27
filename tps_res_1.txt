@@ -1,0 +1,188 @@
+IWPBFT
+all count time is 4.131766319274902
+relied number is 20 and 13
+all count time is 5.426454782485962
+relied number is 18 and 14
+all count time is 3.9259514808654785
+relied number is 17 and 14
+all count time is 3.9586915969848633
+relied number is 20 and 14
+all count time is 4.04072380065918
+relied number is 19 and 15
+all count time is 3.729163646697998
+relied number is 18 and 13
+all count time is 6.39448881149292
+relied number is 20 and 19
+all count time is 3.9149858951568604
+relied number is 19 and 15
+all count time is 5.085170030593872
+relied number is 18 and 16
+all count time is 6.209286451339722
+relied number is 20 and 19
+10
+all count time is 0.7841460704803467
+relied number is 14 and 10
+all count time is 0.413891077041626
+relied number is 10 and 5
+all count time is 0.396167516708374
+relied number is 12 and 5
+all count time is 0.8749642372131348
+relied number is 19 and 11
+all count time is 0.4200623035430908
+relied number is 11 and 5
+34
+all count time is 4.461411952972412
+relied number is 10 and 8
+all count time is 2.594513416290283
+relied number is 10 and 5
+all count time is 18.244240522384644
+relied number is 20 and 16
+all count time is 15.47122049331665
+relied number is 20 and 16
+all count time is 17.518989324569702
+relied number is 20 and 15
+all count time is 13.463688135147095
+relied number is 19 and 15
+46
+all count time is 31.4922034740448
+relied number is 19 and 15
+all count time is 35.1664035320282
+relied number is 20 and 17
+all count time is 27.04910922050476
+relied number is 19 and 14
+58
+all count time is 52.10628294944763
+relied number is 19 and 16
+all count time is 39.00368595123291
+relied number is 20 and 13
+all count time is 38.544294357299805
+relied number is 17 and 14
+
+
+WPBFT
+all count time is 4.801804542541504
+relied number is 18 and 14
+all count time is 5.425887823104858
+relied number is 20 and 15
+all count time is 6.385774374008179
+relied number is 20 and 15
+all count time is 3.9674365520477295
+relied number is 20 and 11
+all count time is 5.517718076705933
+relied number is 18 and 15
+all count time is 5.504239797592163
+relied number is 19 and 15
+all count time is 5.550827741622925
+relied number is 18 and 15
+all count time is 5.089942455291748
+relied number is 20 and 14
+all count time is 4.556219100952148
+relied number is 20 and 12
+all count time is 5.651689529418945
+relied number is 19 and 16
+10
+all count time is 0.4022679328918457
+relied number is 19 and 5
+all count time is 0.9051508903503418
+relied number is 20 and 11
+all count time is 0.9711487293243408
+relied number is 20 and 12
+34
+all count time is 14.423704385757446
+relied number is 15 and 13
+all count time is 20.991928577423096
+relied number is 20 and 16
+all count time is 15.049271583557129
+relied number is 15 and 13
+46
+all count time is 29.392688512802124
+relied number is 18 and 13
+all count time is 15.442927837371826
+relied number is 18 and 5
+all count time is 11.10453200340271
+relied number is 5 and 4
+all count time is 28.28139638900757
+relied number is 18 and 12
+58
+all count time is 54.07460832595825
+relied number is 17 and 14
+all count time is 36.05272054672241
+relied number is 15 and 10
+all count time is 53.81775712966919
+relied number is 19 and 15
+
+PBFT
+10
+all count time is 2.2150168418884277
+relied number is 20 and 20
+all count time is 2.8085386753082275
+relied number is 20 and 20
+all count time is 3.0261878967285156
+relied number is 20 and 20
+all count time is 1.9845871925354004
+relied number is 20 and 20
+22
+all count time is 10.848739862442017
+relied number is 20 and 20
+all count time is 9.855387449264526
+relied number is 19 and 19
+all count time is 18.997141361236572
+relied number is 20 and 20
+all count time is 5.738951206207275
+relied number is 19 and 15
+all count time is 14.618213176727295
+relied number is 19 and 19
+all count time is 14.20823884010315
+relied number is 20 and 20
+all count time is 20.01206135749817
+relied number is 20 and 19
+all count time is 15.556100368499756
+relied number is 20 and 18
+all count time is 12.943102598190308
+relied number is 19 and 19
+all count time is 13.45056939125061
+relied number is 18 and 18
+34
+all count time is 42.51232385635376
+relied number is 20 and 20
+all count time is 27.66988253593445
+relied number is 18 and 18
+all count time is 36.92507553100586
+relied number is 19 and 19
+46
+all count time is 44.16686940193176
+relied number is 15 and 15
+all count time is 29.41162133216858
+relied number is 18 and 18
+all count time is 38.20034050941467
+relied number is 20 and 20
+all count time is 29.43816566467285
+relied number is 19 and 19
+all count time is 59.03055667877197
+relied number is 19 and 19
+all count time is 225.1723437309265
+relied number is 13 and 13
+all count time is 72.4143557548523
+relied number is 18 and 18
+all count time is 52.95447063446045
+relied number is 18 and 14
+all count time is 66.1217668056488
+relied number is 20 and 20
+all count time is 51.31540870666504
+relied number is 14 and 11
+58
+all count time is 65.98273730278015
+relied number is 20 and 20
+all count time is 129.55180597305298
+relied number is 19 and 18
+all count time is 56.42678642272949
+relied number is 18 and 18
+all count time is 108.0083966255188
+relied number is 18 and 18
+all count time is 59.92834544181824
+relied number is 19 and 19
+
+
+0.3067039990849708
+0.36924414487112134
+0.7219350960519579
